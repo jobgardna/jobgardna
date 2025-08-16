@@ -60,7 +60,7 @@ I aim to <strong>become a world-class data scientist/engineer </strong> by Decem
 <h2>📬 Let's Connect</h2>
 
 <p>
-I'm always open to connect, collaborate or simply have a chat about backend engineering, data, or building impactful software. 
+I'm always open to connecting, collaborating, or simply having a chat about data engineering, data science, or building impactful software. 
 Feel free to reach out:
 </p>
 
@@ -74,9 +74,9 @@ Feel free to reach out:
 
 <!-- Footer -->
 <p align="center">
-  💡 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+  💡 For me, data is more than numbers — it’s the foundation for building systems that empower people, streamline processes, and transform businesses.
 </p>
 
 <p align="center">
-  Made with ❤️ by Job | ALX Backend Engineer in Progress
+  Made with ❤️ by Job | ALX Data Scientist in Progress..
 </p>
