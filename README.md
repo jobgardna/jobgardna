@@ -1,9 +1,9 @@
 <!-- Profile Header with Emojis and Highlights -->
-<h1 align="center">👋 Hi, I'm Job | Backend Engineer in Training 🚀</h1>
+<h1 align="center">👋 Hi, I'm Job | Data Scientist in Training 🚀</h1>
 
 <p align="center">
   <em>
-    I am a passionate learner of the <strong>ALX Backend Engineering Program</strong> 🌍, driven by curiosity and the desire to solve real-world problems with code.
+    I am a passionate learner of the <strong>ALX Data Science Program</strong> 🌍, driven by curiosity and the desire to solve real-world problems with data and code.
   </em>
 </p>
 
@@ -13,15 +13,15 @@
 <h2>🧠 About Me</h2>
 
 <p>
-I started my journey in <strong>Software Engineering</strong> because I’ve always been fascinated by how technology can create solutions that scale. My background in <em>customer experience</em> taught me the value of efficiency, automation, and data—which naturally led me to the world of backend development.
+I started my journey in Data Science because I’m fascinated by how data drives smarter decisions. My background in customer experience showed me the power of insights and efficiency, which naturally led me to explore analytics and data-driven solutions.
 </p>
 
 <p>
-What inspires me most is the ability to build systems that <strong>empower people</strong>, streamline processes, and transform businesses. I'm passionate about understanding how things work under the hood, and I love bringing structure and logic to complex problems.
+I’m inspired by building data-driven systems that empower people, streamline processes, and transform businesses. I’m passionate about uncovering insights and bringing structure to complex problems.
 </p>
 
 <p>
-My aim is to <strong>become a world-class backend engineer </strong> by December, and that’s why I want to work on projects that involve:
+I aim to <strong>become a world-class data scientist/engineer </strong> by December, and that’s why I want to work on projects that involve:
 <ul>
   <li>🌐 RESTful APIs and Microservices</li>
   <li>📊 Data pipelines and dashboards</li>
@@ -29,19 +29,6 @@ My aim is to <strong>become a world-class backend engineer </strong> by December
   <li>🔐 Secure and scalable architectures</li>
 </ul>
 </p>
-
----
-
-<!-- What I'm Working On -->
-<h2>🔧 What I'm Working On</h2>
-
-<ul>
-  <li>🚀 Backend development with <strong>Python, Flask, and Django</strong></li>
-  <li>📦 Containerization and orchestration with <strong>Docker</strong></li>
-  <li>🧪 Improving my debugging, testing, and deployment skills</li>
-  <li>🗂️ Building an impressive portfolio that reflects my growth</li>
-</ul>
-
 ---
 
 <!-- Technologies -->
