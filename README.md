@@ -3,7 +3,7 @@
 
 <!-- HEADER / HERO -->
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME.png" width="120" style="border-radius:50%;" alt="Profile avatar"/>
+  <img src="https://github.com/jobgardna.png" width="120" style="border-radius:50%;" alt="Profile avatar"/>
   <h1>Hi, I'm <span style="color:#22c55e;">YOUR_NAME</span> 👋</h1>
   <p><strong>Front-End Developer</strong> • <strong>ALX Software Engineering Learner</strong> • <strong>Customer Experience background</strong></p>
   <p>Turning complex service issues into <em>seamless digital experiences</em>.</p>
@@ -16,10 +16,10 @@
 
   <!-- CONTACT QUICK LINKS -->
   <p>
-    <a href="mailto:your-email@example.com">Email</a> •
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> •
+    <a href="mailto:jobgardiner@gmail.com">Email</a> •
+    <a href="https://www.linkedin.com/in/job-gardiner" target="_blank">LinkedIn</a> •
     <a href="https://YOUR_PORTFOLIO_URL" target="_blank">Portfolio</a> •
-    <a href="https://twitter.com/YOUR_TWITTER" target="_blank">X/Twitter</a>
+    <a href="https://twitter.com/job_gadna" target="_blank">X/Twitter</a>
   </p>
 
   <!-- BADGES (optional: Shields.io) -->
