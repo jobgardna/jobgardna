@@ -1,82 +1,82 @@
 <!-- Profile Header with Emojis and Highlights -->
-<h1 align="center">👋 Hi, I'm Job | Data Scientist in Training 🚀</h1>
+<h1 align="center">👋 Hi, I'm Job | Front-end Developer | ALX Learner in Training 🚀</h1>
 
-<p align="center">
-  <em>
-    I am a passionate learner of the <strong>ALX Data Science Program</strong> 🌍, driven by curiosity and the desire to solve real-world problems with data and code.
-  </em>
-</p>
+<!-- HEADER / HERO -->
+<div align="center">
+  <img src="https://github.com/YOUR_USERNAME.png" width="120" style="border-radius:50%;" alt="Profile avatar"/>
+  <h1>Hi, I'm <span style="color:#22c55e;">YOUR_NAME</span> 👋</h1>
+  <p><strong>Front-End Developer</strong> • <strong>ALX Software Engineering Learner</strong> • <strong>Customer Experience background</strong></p>
+  <p>Turning complex service issues into <em>seamless digital experiences</em>.</p>
 
----
+  <!-- QUICK TAGLINE -->
+  <p>
+    <b>Mission:</b> Bridge the gap between people and technology.  
+    <b>Style:</b> Fast-paced • Product-minded • Data-informed • Accessibility-first
+  </p>
 
-<!-- About Me Section -->
-<h2>🧠 About Me</h2>
+  <!-- CONTACT QUICK LINKS -->
+  <p>
+    <a href="mailto:your-email@example.com">Email</a> •
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> •
+    <a href="https://YOUR_PORTFOLIO_URL" target="_blank">Portfolio</a> •
+    <a href="https://twitter.com/YOUR_TWITTER" target="_blank">X/Twitter</a>
+  </p>
 
-<p>
-I started my journey in Data Science because I’m fascinated by how data drives smarter decisions. My background in customer experience showed me the power of insights and efficiency, which naturally led me to explore analytics and data-driven solutions.
-</p>
-
-<p>
-I’m inspired by building data-driven systems that empower people, streamline processes, and transform businesses. I’m passionate about uncovering insights and bringing structure to complex problems.
-</p>
-
-<p>
-I aim to <strong>become a world-class data scientist/engineer </strong> by December, and that’s why I want to work on projects that involve:
-<ul>
-  <li>🌐 RESTful APIs and Microservices</li>
-  <li>📊 Data pipelines and dashboards</li>
-  <li>☁️ Cloud-native applications and CI/CD pipelines</li>
-  <li>🔐 Secure and scalable architectures</li>
-</ul>
-</p>
----
-
-<!-- Technologies -->
-<h2>💻 Technologies & Tools</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-</p>
+  <!-- BADGES (optional: Shields.io) -->
+  <p>
+    <img alt="ALX" src="https://img.shields.io/badge/ALX-Front--End-22c55e?style=for-the-badge">
+    <img alt="Location" src="https://img.shields.io/badge/Nairobi-Kenya-0ea5e9?style=for-the-badge">
+    <img alt="Open to Work" src="https://img.shields.io/badge/Open_to-Frontend_Roles-f97316?style=for-the-badge">
+  </p>
+</div>
 
 ---
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
+<!-- ABOUT / NARRATIVE -->
+## About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Stephen's GitHub stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
+I’m a front-end developer with a strong foundation in **customer experience**. I’m passionate about **simplifying complex workflows** and building **accessible, high-performing interfaces** that feel effortless for real people.  
+I thrive in **fast-paced, collaborative teams** where we ship, learn, and iterate. Currently leveling up through **ALX’s Software Engineering track** with a focus on **front-end craftsmanship**.
 
----
-
-<!-- Get in Touch -->
-<h2>📬 Let's Connect</h2>
-
-<p>
-I'm always open to connecting, collaborating, or simply having a chat about data engineering, data science, or building impactful software. 
-Feel free to reach out:
-</p>
-
-<ul>
-  <li>📧 Email: <a href="mailto:youremail@example.com">jobgardner@gmail.com</a></li>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/yourlinkedin">job-gardiner</a></li>
-  <li>🌐 Portfolio: <a href="https://yourportfolio.com">Coming soon</a></li>
-</ul>
+- 🔭 **Current focus:** Front-end architectures, performance, accessibility (a11y), design systems.
+- 🧭 **Interests:** UX engineering, micro-interactions, data-driven UI, developer experience (DX).
+- 💬 **Ask me about:** turning support pain-points into product features, practical UI patterns, and web fundamentals.
 
 ---
 
-<!-- Footer -->
-<p align="center">
-  💡 For me, data is more than numbers — it’s the foundation for building systems that empower people, streamline processes, and transform businesses.
-</p>
+<!-- SKILLS -->
+## Tech Stack
 
-<p align="center">
-  Made with ❤️ by Job | ALX Data Scientist in Progress..
-</p>
+**Languages:** HTML5 · CSS3 / PostCSS · JavaScript (ES6+) · TypeScript  
+**Frameworks/Libraries:** React · Next.js · Tailwind CSS · Redux/RTK · React Query  
+**Tooling:** Git & GitHub · Vite · Webpack · ESLint · Prettier · npm/yarn/pnpm  
+**Testing:** Jest · React Testing Library · Playwright/Cypress  
+**Design:** Figma · Accessible components · Design tokens  
+**Back-of-Front-end:** REST · basic Node.js/Express · JSON · Axios/Fetch
+
+> _I care about clean code, semantic HTML, responsive layouts, and accessible UI._
+
+---
+
+<!-- ALX PROGRESS -->
+## ALX Front-End Journey
+
+- 🎓 **Track:** ALX Software Engineering → Front-End specialization  
+- ✅ **Recent:** Layout systems (Flexbox/Grid), forms, async patterns, state management  
+- 🚀 **Next up:** Performance budgets, SSR/SSG (Next.js), component libraries, testing at scale
+
+> I document my learning through small, focused repos and project write-ups.
+
+---
+<!-- CONTACT / CTA -->
+## Let’s Build Something Users Love
+
+- 📫 **Reach me:** jobgardner@gmail.com  
+- 🔗 **Portfolio:** Loading..  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/job-gardiner  
+- 🌍 **Timezone:** EAT (UTC+3) • Open to remote/hybrid
+
+<!-- FOOTER / FUN -->
+<sub>
+  Fun fact: I map user pain-points to UI patterns. Favorite stack today: React + TypeScript + Tailwind.
+</sub>
