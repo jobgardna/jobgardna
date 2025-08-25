@@ -4,7 +4,6 @@
 <!-- HEADER / HERO -->
 <div align="center">
   <img src="https://github.com/jobgardna.png" width="120" style="border-radius:50%;" alt="Profile avatar"/>
-  <h1>Hi, I'm <span style="color:#22c55e;">YOUR_NAME</span> 👋</h1>
   <p><strong>Front-End Developer</strong> • <strong>ALX Software Engineering Learner</strong> • <strong>Customer Experience background</strong></p>
   <p>Turning complex service issues into <em>seamless digital experiences</em>.</p>
 
