@@ -4,12 +4,12 @@
 <!-- HEADER / HERO -->
 <div align="center">
   <img src="https://github.com/jobgardna.png" width="120" style="border-radius:50%;" alt="Profile avatar"/>
-  <p><strong>Front-End Developer</strong> • <strong>ALX Software Engineering Learner</strong> • <strong>Customer Experience background</strong></p>
+  <p><strong>Data Scientist Learner</strong> • <strong>Customer Experience background</strong></p>
   <p>Turning complex service issues into <em>seamless digital experiences</em>.</p>
 
   <!-- QUICK TAGLINE -->
   <p>
-    <b>Mission:</b> Bridge the gap between people and technology.  
+    <b>Mission:</b> I’m passionate about turning raw data into insights that drive decisions & bridging the gap between people and technology.  
     <b>Style:</b> Fast-paced • Product-minded • Data-informed • Accessibility-first
   </p>
 
