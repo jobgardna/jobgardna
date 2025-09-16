@@ -1,5 +1,5 @@
 <!-- Profile Header with Emojis and Highlights -->
-<h1 align="center">👋 Hi, I'm Job | Front-end Developer | ALX Learner in Training 🚀</h1>
+<h1 align="center">👋 Hi, I'm Job Wandwasi | An Aspiring Data Scientist | AI Enthusiast | ALX Learner in Training 🚀</h1>
 
 <!-- HEADER / HERO -->
 <div align="center">
