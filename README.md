@@ -67,5 +67,5 @@ I thrive in **collaborative, fast-paced environments** where experimentation, le
 > I document my learning through small, focused repos, Jupyter notebooks, and project write-ups.
 
 ---
-  Fun fact: I map user pain-points to UI patterns. Favorite stack today: React + TypeScript + Tailwind.
+  Fun fact: I love turning messy datasets into meaningful stories.  📊 Favorite stack today: Python + Pandas + Seaborn + SQL.
 </sub>
