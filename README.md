@@ -34,48 +34,38 @@
 <!-- ABOUT / NARRATIVE -->
 ## About Me
 
-I’m a front-end developer with a strong foundation in **customer experience**. I’m passionate about **simplifying complex workflows** and building **accessible, high-performing interfaces** that feel effortless for real people.  
-I thrive in **fast-paced, collaborative teams** where we ship, learn, and iterate. Currently leveling up through **ALX’s Software Engineering track** with a focus on **front-end craftsmanship**.
+I’m an aspiring **Data Scientist** with a strong foundation in **customer experience** and a growing expertise in **data analysis**. I’m passionate about **turning raw data into actionable insights**, solving real-world problems through **statistical analysis, machine learning, and visualization**, and making data-driven decisions accessible to everyone.  
+I thrive in **collaborative, fast-paced environments** where experimentation, learning, and iteration lead to impactful solutions. Currently advancing my skills through **ALX’s Data Science and Software Engineering tracks**, with a focus on **Python, SQL, data visualization, and machine learning fundamentals**.
 
-- 🔭 **Current focus:** Front-end architectures, performance, accessibility (a11y), design systems.
-- 🧭 **Interests:** UX engineering, micro-interactions, data-driven UI, developer experience (DX).
-- 💬 **Ask me about:** turning support pain-points into product features, practical UI patterns, and web fundamentals.
+- 🔭 **Current focus:** Data analysis, predictive modeling, SQL databases, Power BI visualization
+- 🧭 **Interests:** Applied machine learning, data storytelling, AI-driven products, cloud computing.
+- 🛠 **Tech stack:** Python, Pandas, NumPy, Matplotlib (Pyplot), Seaborn, SQL.
+- 💬 **Ask me about:** bridging customer experience with data insights, Python for data workflows, and practical ways to communicate findings through visualization.
 
 ---
 
 <!-- SKILLS -->
-## Tech Stack
+## Tech Stack  
 
-**Languages:** HTML5 · CSS3 / PostCSS · JavaScript (ES6+) · TypeScript  
-**Frameworks/Libraries:** React · Next.js · Tailwind CSS · Redux/RTK · React Query  
-**Tooling:** Git & GitHub · Vite · Webpack · ESLint · Prettier · npm/yarn/pnpm  
-**Testing:** Jest · React Testing Library · Playwright/Cypress  
-**Design:** Figma · Accessible components · Design tokens  
-**Back-of-Front-end:** REST · basic Node.js/Express · JSON · Axios/Fetch
+**Languages:** Python · SQL · Terminal
+**Data Analysis & Visualization:** Pandas · NumPy · Matplotlib (Pyplot) · Seaborn · Plotly · Power BI · Excel  
+**Machine Learning & AI:** Scikit-learn · Jupyter Notebooks · Statsmodels · TensorFlow/Keras (learning)  
+**Databases:** MySQL · PostgreSQL · SQLite  
+**Other:** Data storytelling · Statistical analysis · Cloud fundamentals (AWS/GCP basics)  
 
-> _I care about clean code, semantic HTML, responsive layouts, and accessible UI._
+> _I care about clean, reproducible code, clear data pipelines, and communicating insights through compelling visualizations._  
 
 ---
 
 <!-- ALX PROGRESS -->
-## ALX Front-End Journey
+## ALX Data Science Journey  
 
-- 🎓 **Track:** ALX Software Engineering → Front-End specialization  
-- ✅ **Recent:** Layout systems (Flexbox/Grid), forms, async patterns, state management  
-- 🚀 **Next up:** Performance budgets, SSR/SSG (Next.js), component libraries, testing at scale
+- 🎓 **Tracks:** ALX Data Science  
+- ✅ **Recent:** Python scripting, SQL queries, data wrangling, exploratory data analysis (EDA)  
+- 🚀 **Next up:** Machine learning models, advanced visualization, cloud deployment, data-driven projects  
 
-> I document my learning through small, focused repos and project write-ups.
+> I document my learning through small, focused repos, Jupyter notebooks, and project write-ups.
 
 ---
-<!-- CONTACT / CTA -->
-## Let’s Build Something Users Love
-
-- 📫 **Reach me:** jobgardner@gmail.com  
-- 🔗 **Portfolio:** Loading..  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/job-gardiner  
-- 🌍 **Timezone:** EAT (UTC+3) • Open to remote/hybrid
-
-<!-- FOOTER / FUN -->
-<sub>
   Fun fact: I map user pain-points to UI patterns. Favorite stack today: React + TypeScript + Tailwind.
 </sub>
