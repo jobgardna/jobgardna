@@ -23,9 +23,9 @@
 
   <!-- BADGES (optional: Shields.io) -->
   <p>
-    <img alt="ALX" src="https://img.shields.io/badge/ALX-Front--End-22c55e?style=for-the-badge">
+    <img alt="ALX" src="https://img.shields.io/badge/ALX-Data_Science-22c55e?style=for-the-badge">
     <img alt="Location" src="https://img.shields.io/badge/Nairobi-Kenya-0ea5e9?style=for-the-badge">
-    <img alt="Open to Work" src="https://img.shields.io/badge/Open_to-Frontend_Roles-f97316?style=for-the-badge">
+    <img alt="Open to Work" src="https://img.shields.io/badge/Open_to-Data_Roles-f97316?style=for-the-badge">
   </p>
 </div>
 
