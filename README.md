@@ -35,7 +35,7 @@
 ## About Me
 
 I’m an aspiring **Data Scientist** with a strong foundation in **customer experience** and a growing expertise in **data analysis**. I’m passionate about **turning raw data into actionable insights**, solving real-world problems through **statistical analysis, machine learning, and visualization**, and making data-driven decisions accessible to everyone.  
-I thrive in **collaborative, fast-paced environments** where experimentation, learning, and iteration lead to impactful solutions. Currently advancing my skills through **ALX’s Data Science and Software Engineering tracks**, with a focus on **Python, SQL, data visualization, and machine learning fundamentals**.
+I thrive in **collaborative, fast-paced environments** where experimentation, learning, and iteration lead to impactful solutions. Currently advancing my skills through **ALX’s Data Science track**, with a focus on **Python, SQL, data visualization, and machine learning fundamentals**.
 
 - 🔭 **Current focus:** Data analysis, predictive modeling, SQL databases, Power BI visualization
 - 🧭 **Interests:** Applied machine learning, data storytelling, AI-driven products, cloud computing.
